@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammad Shahmeer
 
-<!--
-**BeingSN/BeingSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Software Engineer (MERN & Cloud) | 5+ Years Experience**
 
-Here are some ideas to get you started:
+📫 Reach me: [shahmir.nazir@gmail.com](mailto:shahmir.nazir@gmail.com)  
+📄 [Check out my Resume](https://www.linkedin.com/in/mohammad-shahmeer-285797193/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/mohammad-shahmeer-285797193/) • [GitHub](https://github.com/BeingSN)
+
+---
+
+### Languages & Tools:
+JavaScript • TypeScript • Node.js • Express.js • React.js • Next.js • MongoDB • PostgreSQL • MySQL • GraphQL • REST APIs • Tailwind CSS • Redux Toolkit • WebSockets • WebRTC • Docker • Kubernetes • AWS • GCP • Terraform • CI/CD • Redis • RabbitMQ • Nginx • ShadCN
