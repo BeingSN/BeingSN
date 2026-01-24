@@ -130,16 +130,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeingSN&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeingSN&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ⭐️ From [Mohammad Shahmeer](https://github.com/BeingSN)
