@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohammad Shahmeer
 
-**Senior Full-Stack Software Engineer (MERN, .NET, Java & Cloud) | 5+ Years Experience**
+**Senior Full-Stack Software Engineer (MERN, .NET, Python , Java & Cloud) | 5+ Years Experience**
 
 📫 Reach me: [shahmir.nazir@gmail.com](mailto:shahmir.nazir@gmail.com)  
 📄 [Check out my Resume](https://www.linkedin.com/in/mohammad-shahmeer-285797193/)
