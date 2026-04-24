@@ -6,7 +6,6 @@
 **MERN · PHP/Laravel · Python · Java · Cloud &nbsp;|&nbsp; 5+ Years Experience**
 
 [![Email](https://img.shields.io/badge/shahmir.nazir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahmir.nazir@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shahmeer-285797193/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shahmeer-285797193/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BeingSN)
 
@@ -50,8 +49,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeingSN&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeingSN&layout=compact&theme=default&hide_border=true" height="160"/>
-</div>
+
