@@ -1,52 +1,177 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mohammad Shahmeer</h1>
+<h3 align="center">Senior Full-Stack Software Engineer · MERN · PHP/Laravel · Python · Java · Cloud · AI</h3>
 
-# Hi 👋, I'm Mohammad Shahmeer
-
-### Senior Full-Stack Software Engineer
-**MERN · PHP/Laravel · Python · Java · Cloud Computing &nbsp;|&nbsp; 5+ Years Experience**
-
-[![Email](https://img.shields.io/badge/shahmir.nazir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahmir.nazir@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shahmeer-285797193/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BeingSN)
-
-</div>
-
----
-
-## 🛠️ Languages & Tools
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Tools & Testing**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <a href="mailto:shahmir.nazir@gmail.com"><img src="https://img.shields.io/badge/Email-shahmir.nazir%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohammad-shahmeer-285797193"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Shahmeer-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/BeingSN"><img src="https://img.shields.io/badge/GitHub-BeingSN-181717?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Riyadh%2C%20Saudi%20Arabia-green?style=flat&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Immediate%20Joiner-brightgreen?style=flat"/>
+  <img src="https://img.shields.io/badge/Iqama-Transferable-blue?style=flat"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-| | |
-|---|---|
-| 🚀 | Passionate about building scalable web applications and distributed systems |
-| 💡 | Experienced in full-stack development, cloud architecture, and DevOps best practices |
-| 🌐 | Interested in real-time systems, event-driven architectures, and microservices |
-| 📈 | Focus on performance optimization, system design, and clean code principles |
-| ⚡ | Fun fact: I love solving performance bottlenecks and optimizing APIs |
+- 🚀 Passionate about building **scalable web applications** and **distributed systems**
+- 💡 Experienced in **full-stack development**, **cloud architecture**, and **DevOps best practices**
+- 🤖 Actively building with **Generative AI**, **LLM APIs**, and **AI Agents**
+- 🌐 Interested in **real-time systems**, **event-driven architectures**, and **microservices**
+- 📈 Focus on **performance optimization**, **system design**, and **clean code principles**
+- ⚡ Fun fact: I love solving performance bottlenecks and optimizing APIs
 
 ---
 
+## 🛠️ Tech Stack
 
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash"/>
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" title="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket.io" title="Socket.io"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch" title="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="28" alt="GraphQL" title="GraphQL"/>
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" title="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" title="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" title="RabbitMQ"/>
+</p>
+
+### Tools & Testing
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" alt="Webpack" title="Webpack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" alt="Postman" title="Postman"/>
+</p>
+
+### 🤖 AI & Generative AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LLM%20APIs-5B21B6?style=flat&logo=anthropic&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Anthropic%20Claude%20API-7C3AED?style=flat&logo=anthropic&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-6D28D9?style=flat&logo=probot&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20Vector%20Search-4C1D95?style=flat&logo=pinecone&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/FastAPI%20%2B%20AI-009688?style=flat&logo=fastapi&logoColor=white" height="28"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Walmart IBG Engineering Platform
+> Internal B2B engineering platform for Walmart's global supplier ecosystem
+
+- Built scalable microservices with **Node.js**, **React**, and **GCP**
+- Integrated real-time order tracking using **WebSockets** and **RabbitMQ**
+- Achieved 40% improvement in API response times through Redis caching and query optimization
+- **Tech:** Node.js · React · PostgreSQL · Redis · GCP · Docker · Kubernetes
+
+---
+
+### 🏠 Bayut — Real Estate Platform
+> UAE's leading property marketplace (Dubizzle/EMPG Labs)
+
+- Developed high-traffic property listing features serving millions of users
+- Built **Elasticsearch**-powered search with geo-filtering and advanced facets
+- Implemented SSR with **Next.js** for SEO optimization and Core Web Vitals
+- **Tech:** React · Next.js · Node.js · Elasticsearch · PostgreSQL · AWS
+
+---
+
+### 🤖 AI-Powered Document Extraction Platform
+> Intelligent document processing pipeline using Generative AI
+
+- Built end-to-end document ingestion and extraction system using **LLM APIs**
+- Implemented **RAG** pipeline with vector embeddings for semantic document search
+- REST API layer with **FastAPI**, async processing with **Celery** + **Redis**
+- **Tech:** Python · FastAPI · LangChain · OpenAI API · PostgreSQL · Docker
+
+---
+
+### 💎 Dinisium — Luxury Digital Commerce
+> Premium e-commerce platform for high-end jewellery
+
+- Architected full-stack platform with **Laravel** backend and **Vue.js** frontend
+- Payment gateway integrations, real-time inventory, and admin dashboard
+- **Tech:** Laravel · Vue.js · MySQL · Redis · AWS S3 · Stripe
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeingSN&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeingSN&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company | Location |
+|--------|------|---------|----------|
+| Oct 2023 – May 2026 | Senior Full-Stack Engineer | Confiz | Lahore, Pakistan |
+| Mar 2021 – Oct 2023 | Full-Stack Engineer | Dubizzle / EMPG Labs | Dubai, UAE |
+
+---
+
+## 🎓 Education
+
+**BSc Software Engineering** — University of Management and Technology (UMT), Lahore · 2016–2021
+
+---
+
+<p align="center">
+  <i>Open to Senior Full-Stack, Backend, and Cloud Engineering roles in Saudi Arabia & remotely.</i><br/>
+  <b>Transferable Iqama · Immediate Joiner · Based in Riyadh, Saudi Arabia</b>
+</p>
