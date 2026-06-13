@@ -170,6 +170,7 @@
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
+| May 2026 – Present | AI Engineer | Oktazone | Riyadh, Saudi Arabia |
 | Oct 2023 – May 2026 | Senior Full-Stack Engineer | Confiz | Lahore, Pakistan |
 | Mar 2021 – Oct 2023 | Full-Stack Engineer | Dubizzle / EMPG Labs | Dubai, UAE |
 
