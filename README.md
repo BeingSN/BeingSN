@@ -138,12 +138,23 @@
 
 ---
 
-### 💎 Dinisium — Luxury Digital Commerce
-> Premium e-commerce platform for high-end jewellery
+### 💎 Dinisium — Blockchain Asset Management Platform
+> Decentralized platform for tokenizing and managing high-value digital assets
 
 - Architected full-stack platform with **Laravel** backend and **Vue.js** frontend
-- Payment gateway integrations, real-time inventory, and admin dashboard
-- **Tech:** Laravel · Vue.js · MySQL · Redis · AWS S3 · Stripe
+- Built blockchain integration layer for asset tokenization, ownership transfers, and on-chain transaction tracking
+- Implemented secure wallet connectivity, smart contract interaction, and real-time asset valuation dashboards
+- **Tech:** Laravel · Vue.js · MySQL · Redis · Web3.js · AWS S3
+
+---
+
+### 🏢 PropForce — Property CRM for Zameen.com
+> Enterprise CRM platform powering Pakistan's largest real estate marketplace
+
+- Built and maintained core CRM features for property agents, developers, and brokers on **Zameen.com**
+- Developed lead management pipelines, agent performance dashboards, and automated follow-up workflows
+- Integrated real-time property listings sync, role-based access control, and reporting modules
+- **Tech:** React · Node.js · PostgreSQL · Redis · AWS · REST APIs
 
 ---
 
